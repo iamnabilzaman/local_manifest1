@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/samsung/m20lte" name="iamnabilzaman/m20lte_dt" remote="gitlab" revision="lineage-20" />
+ <project path="device/samsung/universal7904-common" name="iamnabilzaman/universal7904-common" remote="gitlab" revision="lineage-20" />
+ <project path="vendor/samsung" name="iamnabilzaman/m20lte_vt" remote="gitlab" revision="lineage-20" />
+ <project path="kernel/samsung/universal7904" name="iamnabilzaman/universal7904_kernel" remote="gitlab" revision="lineage-20" />
+ <project path="device/samsung_slsi/sepolicy" name="iamnabilzaman/android_device_samsung_slsi_sepolicy" remote="gitlab" revision="lineage-19.0" />
+ <project path="hardware/samsung" name="iamnabilzaman/android_hardware_samsung" remote="gitlab" revision="lineage-19.0" />
+ <project path="hardware/samsung_slsi/scsc_wifibt/wifi_hal" name="iamnabilzaman/android_hardware_samsung_slsi_scsc_wifibt_wifi_hal" remote="gitlab" revision="android-12.0" />
+ 
+</manifest>
